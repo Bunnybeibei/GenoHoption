@@ -3,6 +3,11 @@ What can we do if we already have a line of single-cell LLMs and want to use the
 
 Why not have a try on GenoHoption?
 
+## Overview
+The workflow of GenoHoption is shown below:
+![Overview](https://github.com/user-attachments/assets/88703905-31d4-4a51-b120-dc1fa29c6283)
+
+
 ## Key Code
 - Iteration
   GenoHoption/
