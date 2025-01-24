@@ -66,4 +66,19 @@ The parameters can be downloaded from these links:
     ```
 - GRN
   - The dataset of the GRN network: [*link*](https://github.com/yangkaiyuan1027/DGP-AMIO/tree/main/graphs)
+  - 
+## Citing GenoHoption
+```bibtex
+@INPROCEEDINGS{10822153,
+  author={Cheng, Jiabei and Li, Jiachen and Yang, Kaiyuan and Shen, Hongbin and Yuan, Ye},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={GenoHoption: Bridging Gene Network Graphs and Single-Cell Foundation Models}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1453-1456},
+  keywords={Bridges;Sequential analysis;Foundation models;Biological system modeling;Message passing;Computational modeling;Perturbation methods;Predictive models;Genetics;Periodic structures;Single-cell Foundation Models;Gene Network Graphs;Graph Diffusion},
+  doi={10.1109/BIBM62325.2024.10822153}}
+}
+```
   
